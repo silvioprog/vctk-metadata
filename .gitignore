@@ -1,0 +1,11 @@
+.DS_Store
+.d1-cache
+.r2-cache
+*.db
+*.sql
+.wrangler/
+__pycache__/
+node_modules/
+dist/
+tmp/
+venv/
